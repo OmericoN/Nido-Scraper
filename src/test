@@ -1,0 +1,31 @@
+import requests
+
+def test_telegram():
+    token = "7718277719:AAE7UQg1O3wXwuNTW_zpPpvJOcj7uRvRrP8"
+    chat_id = "6372497341"
+    message = "Test message from Nido Scraper - If you see this, your Telegram notifications are working!"
+    
+    print(f"Sending test message to chat ID: {chat_id}")
+    
+    url = f"https://api.telegram.org/bot{token}/sendMessage"
+    data = {
+        "chat_id": chat_id,
+        "text": message,
+        "parse_mode": "Markdown"
+    }
+    
+    try:
+        response = requests.post(url, data=data)
+        print(f"Response status code: {response.status_code}")
+        print(f"Response content: {response.text}")
+        
+        if response.status_code == 200:
+            print("✅ Success! The message was sent. Check your Telegram app.")
+        else:
+            print("❌ Failed to send message. See response details above.")
+    except Exception as e:
+        print(f"❌ Error: {e}")
+
+if __name__ == "__main__":
+    print("Testing Telegram notification...")
+    test_telegram()

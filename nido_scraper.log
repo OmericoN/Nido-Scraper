@@ -1,0 +1,35 @@
+2025-04-29 11:31:15,004 - INFO - Starting Nido Randwyck Room Availability Scraper
+2025-04-29 11:31:15,005 - INFO - Monitoring URL: https://www.nidoliving.com/en-gb/netherlands/maastricht/randwyck
+2025-04-29 11:31:15,005 - INFO - Check interval: 3600 seconds
+2025-04-29 11:31:15,005 - INFO - Checking for room availability...
+2025-04-29 11:31:15,518 - INFO - No rooms available yet. Website still shows as 'Sold Out'.
+2025-04-29 11:31:15,519 - INFO - Sleeping for 3600 seconds before next check...
+2025-04-29 11:33:07,736 - INFO - Scraper stopped by user.
+2025-04-29 11:33:08,300 - INFO - Starting Nido Randwyck Room Availability Scraper
+2025-04-29 11:33:08,301 - INFO - Monitoring URL: https://www.nidoliving.com/en-gb/netherlands/maastricht/randwyck
+2025-04-29 11:33:08,301 - INFO - Check interval: 3600 seconds
+2025-04-29 11:33:08,301 - INFO - Checking for room availability...
+2025-04-29 11:33:08,457 - INFO - No rooms available yet. Website still shows as 'Sold Out'.
+2025-04-29 11:33:08,457 - INFO - Sleeping for 3600 seconds before next check...
+2025-04-29 11:33:18,558 - INFO - Scraper stopped by user.
+2025-04-29 11:33:20,856 - INFO - Starting Nido Randwyck Room Availability Scraper
+2025-04-29 11:33:20,856 - INFO - Monitoring URL: https://www.nidoliving.com/en-gb/netherlands/maastricht/randwyck
+2025-04-29 11:33:20,856 - INFO - Check interval: 3600 seconds
+2025-04-29 11:33:20,857 - INFO - Checking for room availability...
+2025-04-29 11:33:21,055 - INFO - No rooms available yet. Website still shows as 'Sold Out'.
+2025-04-29 11:33:21,055 - INFO - Sleeping for 3600 seconds before next check...
+2025-04-29 11:42:04,061 - INFO - Scraper stopped by user.
+2025-04-29 11:42:04,597 - INFO - Starting Nido Randwyck Room Availability Scraper
+2025-04-29 11:42:04,597 - INFO - Monitoring URL: https://www.nidoliving.com/en-gb/netherlands/maastricht/randwyck
+2025-04-29 11:42:04,599 - INFO - Check interval: 3600 seconds
+2025-04-29 11:42:04,599 - INFO - Checking for room availability...
+2025-04-29 11:42:04,938 - INFO - No rooms available yet. Website still shows as 'Sold Out'.
+2025-04-29 11:42:04,939 - INFO - Sleeping for 3600 seconds before next check...
+2025-04-29 11:42:54,418 - INFO - Scraper stopped by user.
+2025-04-29 11:42:56,207 - INFO - Starting Nido Randwyck Room Availability Scraper
+2025-04-29 11:42:56,207 - INFO - Monitoring URL: https://www.nidoliving.com/en-gb/netherlands/maastricht/randwyck
+2025-04-29 11:42:56,208 - INFO - Check interval: 3600 seconds
+2025-04-29 11:42:56,208 - INFO - Checking for room availability...
+2025-04-29 11:42:56,322 - INFO - No rooms available yet. Website still shows as 'Sold Out'.
+2025-04-29 11:42:56,323 - INFO - Sleeping for 3600 seconds before next check...
+2025-04-29 11:53:40,797 - INFO - Scraper stopped by user.
